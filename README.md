@@ -54,12 +54,8 @@ Pursuing academic knowledge in data science while developing analytical thinking
 **Education**
 
 B.Sc. in Data Science & Analytics  
-Swami Sahajanand College
-
-**Professional Learning**
 
 Full Stack Development  
-Red & White Skill Education
 
 **My approach**
 
