@@ -1,72 +1,103 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1425&height=180&text=Disha%20Mehta&fontSize=52&fontColor=C4B5FD&fontAlignY=40&desc=Curiosity%20into%20Knowledge&descColor=67E8F9&descSize=17&descAlignY=68" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080B1A,50:241044,100:0B233B&height=210&section=header&text=Disha%20Mehta&fontSize=55&fontColor=E9D5FF&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Data%20Science%20Enthusiast&descSize=16&descColor=67E8F9&descAlignY=68&animation=fadeIn" width="100%"/>
 
-**B.Sc. Data Science & Analytics**  
-*Aspiring Full Stack Developer*
+<br/>
 
-[LinkedIn](https://www.linkedin.com/in/disha-mehta14/) &nbsp; · &nbsp; [Email](mailto:disha.mehta1410@gmail.com) &nbsp; · &nbsp; [GitHub](https://github.com/dishamehta1431)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Turning+Curiosity+Into+Creativity;Learning+%7C+Building+%7C+Growing;Exploring+the+World+of+Technology" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/disha-mehta14/">
+<img src="https://img.shields.io/badge/LinkedIn-0D1425?style=for-the-badge&logo=linkedin&logoColor=67E8F9"/>
+</a>
+<a href="mailto:disha.mehta1410@gmail.com">
+<img src="https://img.shields.io/badge/Email-0D1425?style=for-the-badge&logo=gmail&logoColor=F0ABFC"/>
+</a>
+<a href="https://github.com/dishamehta1431">
+<img src="https://img.shields.io/badge/GitHub-0D1425?style=for-the-badge&logo=github&logoColor=C4B5FD"/>
+</a>
 
 </div>
 
 ---
 
-### ✳ A MIND THAT LOVES TO EXPLORE
+<h3 align="center">✦ ABOUT ME ✦</h3>
 
-Hello, I'm **Disha Mehta**.
+Hello! I'm **Disha Mehta**.
 
-Currently pursuing B.Sc. in Data Science & Analytics and learning Full Stack Development at Red & White Skill Education.
+- 🎓 Pursuing B.Sc. in Data Science & Analytics.
+- 💻 Learning Full Stack Development at Red & White Skill Education.
+- ✨ Interested in programming, web development and technology.
+- 🌱 Improving my technical skills through continuous learning and practice.
+- 🚀 Exploring new ideas and turning them into knowledge.
 
-I am passionate about technology, programming and discovering how things work. I enjoy learning new concepts, experimenting with code and developing my technical knowledge through consistent practice.
-
-For me, learning is not just about knowing a technology — it's about understanding it, exploring it and getting better every day.
+> *"Great things begin with curiosity and grow with consistency."*
 
 ---
 
-### ⌘ MY CURRENT TECH SPACE
+<h3 align="center">⌘ TECHNOLOGIES & TOOLS</h3>
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,nodejs&theme=dark" />
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/HTML5-10172A?style=flat-square&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-10172A?style=flat-square&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/Bootstrap-10172A?style=flat-square&logo=bootstrap&logoColor=7952B3"/>
+<img src="https://img.shields.io/badge/JavaScript-10172A?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Node.js-10172A?style=flat-square&logo=nodedotjs&logoColor=68A063"/>
+
 </div>
 
-<p align="center">
-HTML &nbsp; / &nbsp; CSS &nbsp; / &nbsp; Bootstrap &nbsp; / &nbsp; JavaScript &nbsp; / &nbsp; Node.js
-</p>
+---
+
+<h3 align="center">◇ MY LEARNING JOURNEY</h3>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">💻 DEVELOPMENT</h3>
+
+Exploring frontend and backend development, understanding web technologies and learning to build interactive web applications.
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">📊 DATA SCIENCE</h3>
+
+Building academic knowledge in Data Science & Analytics while developing analytical thinking and problem-solving skills.
+
+</td>
+</tr>
+</table>
 
 ---
 
-### ◇ TWO FIELDS, ENDLESS POSSIBILITIES
+<h3 align="center">✧ MY MINDSET</h3>
 
-**Development**
+<div align="center">
 
-Exploring the world of frontend and backend development, understanding web technologies and building a strong foundation in programming.
+🌙 Stay Curious
 
-**Data Science & Analytics**
+💜 Keep Learning
 
-Pursuing academic knowledge in data science while developing analytical thinking, data understanding and problem-solving abilities.
+⚡ Practice Consistently
 
----
+✨ Improve Every Day
 
-### ✦ A LITTLE ABOUT MY JOURNEY
-
-**Education**
-
-B.Sc. in Data Science & Analytics  
-
-Full Stack Development  
-
-**My approach**
-
-Stay curious. Practise consistently. Learn from mistakes. Improve every day.
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1425&height=100&text=Always%20Learning.&fontSize=25&fontColor=67E8F9&fontAlignY=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080B1A,50:241044,100:0B233B&height=120&section=footer&text=Always%20Learning.&fontSize=30&fontColor=67E8F9&fontAlignY=50" width="100%"/>
 
-*Growing through knowledge, one day at a time.*
+**Growing through knowledge, one day at a time.** 💜
 
 </div>
