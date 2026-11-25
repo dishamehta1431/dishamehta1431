@@ -1,43 +1,55 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080B1A,50:241044,100:0B233B&height=210&section=header&text=Disha%20Mehta&fontSize=55&fontColor=E9D5FF&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Data%20Science%20Enthusiast&descSize=16&descColor=67E8F9&descAlignY=68&animation=fadeIn" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B1A,25:211044,55:30205F,80:123D59,100:071B2D&height=230&section=header&text=Disha%20Mehta&fontSize= sixty&fontColor=E9D5FF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Data%20Science%20%26%20Analytics&descSize=17&descColor=67E8F9&descAlignY=62&fontFamily=Montserrat&animation=fadeIn"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Turning+Curiosity+Into+Creativity;Learning+%7C+Building+%7C+Growing;Exploring+the+World+of+Technology" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=20&duration=2500&pause=900&color=C4B5FD&center=true&vCenter=true&width=650&lines=Creative+Mind+%7C+Curious+Learner;Building+Ideas+Into+Digital+Experiences;Exploring+Full+Stack+Development;Learning+Data+Science+%26+Analytics" />
 
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/disha-mehta14/">
-<img src="https://img.shields.io/badge/LinkedIn-0D1425?style=for-the-badge&logo=linkedin&logoColor=67E8F9"/>
+<img src="https://img.shields.io/badge/LINKEDIN-17213B?style=for-the-badge&logo=linkedin&logoColor=67E8F9"/>
 </a>
 <a href="mailto:disha.mehta1410@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D1425?style=for-the-badge&logo=gmail&logoColor=F0ABFC"/>
+<img src="https://img.shields.io/badge/EMAIL-17213B?style=for-the-badge&logo=gmail&logoColor=F0ABFC"/>
 </a>
 <a href="https://github.com/dishamehta1431">
-<img src="https://img.shields.io/badge/GitHub-0D1425?style=for-the-badge&logo=github&logoColor=C4B5FD"/>
+<img src="https://img.shields.io/badge/GITHUB-17213B?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
 </div>
 
 ---
 
-<h3 align="center">✦ ABOUT ME ✦</h3>
+<h2 align="center">✦ ABOUT ME ✦</h2>
 
-Hello! I'm **Disha Mehta**.
+<p align="center">
+  <b>Turning Curiosity Into Creativity & Knowledge</b>
+</p>
 
-- 🎓 Pursuing B.Sc. in Data Science & Analytics.
-- 💻 Learning Full Stack Development at Red & White Skill Education.
-- ✨ Interested in programming, web development and technology.
-- 🌱 Improving my technical skills through continuous learning and practice.
-- 🚀 Exploring new ideas and turning them into knowledge.
+Hello! I'm **Disha Mehta**, a passionate learner exploring the world of technology and development.
 
-> *"Great things begin with curiosity and grow with consistency."*
+🎓 Pursuing **B.Sc. in Data Science & Analytics**.
+
+💻 Learning **Full Stack Development** at Red & White Skill Education.
+
+🚀 Interested in building modern web applications and exploring new technologies.
+
+🌱 Continuously improving my programming, analytical and problem-solving skills.
+
+✨ Believing in learning something new and getting better every day.
 
 ---
 
-<h3 align="center">⌘ TECHNOLOGIES & TOOLS</h3>
+<h2 align="center">⌘ MY TECH STACK</h2>
+
+<p align="center">
+  <i>Languages & Technologies I'm Learning</i>
+</p>
+
+<h3 align="center">🌐 WEB DEVELOPMENT</h3>
 
 <div align="center">
 
@@ -45,32 +57,46 @@ Hello! I'm **Disha Mehta**.
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/HTML5-10172A?style=flat-square&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-10172A?style=flat-square&logo=css3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/Bootstrap-10172A?style=flat-square&logo=bootstrap&logoColor=7952B3"/>
-<img src="https://img.shields.io/badge/JavaScript-10172A?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/Node.js-10172A?style=flat-square&logo=nodedotjs&logoColor=68A063"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+
+</div>
+
+<h3 align="center">💻 PROGRAMMING LANGUAGES</h3>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 </div>
 
 ---
 
-<h3 align="center">◇ MY LEARNING JOURNEY</h3>
+<h2 align="center">◇ TWO FIELDS. ONE JOURNEY.</h2>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-<h3 align="center">💻 DEVELOPMENT</h3>
+<h3>💜 FULL STACK DEVELOPMENT</h3>
 
-Exploring frontend and backend development, understanding web technologies and learning to build interactive web applications.
+Exploring frontend and backend technologies, developing programming skills and learning to create interactive web experiences.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
-<h3 align="center">📊 DATA SCIENCE</h3>
+<h3>💠 DATA SCIENCE & ANALYTICS</h3>
 
-Building academic knowledge in Data Science & Analytics while developing analytical thinking and problem-solving skills.
+Building knowledge in data science, understanding data, developing analytical thinking and strengthening problem-solving abilities.
 
 </td>
 </tr>
@@ -78,17 +104,21 @@ Building academic knowledge in Data Science & Analytics while developing analyti
 
 ---
 
-<h3 align="center">✧ MY MINDSET</h3>
+<h2 align="center">✧ MY LEARNING PHILOSOPHY</h2>
 
 <div align="center">
 
-🌙 Stay Curious
+| ✦ | My Approach |
+|:---:|:---|
+| 🌱 | Learn Something New |
+| 💻 | Practice With Code |
+| 🧠 | Understand Concepts |
+| ⚡ | Improve Every Day |
+| 🚀 | Keep Moving Forward |
 
-💜 Keep Learning
+<br/>
 
-⚡ Practice Consistently
-
-✨ Improve Every Day
+**"Dream. Explore. Create. Repeat."**
 
 </div>
 
@@ -96,8 +126,8 @@ Building academic knowledge in Data Science & Analytics while developing analyti
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080B1A,50:241044,100:0B233B&height=120&section=footer&text=Always%20Learning.&fontSize=30&fontColor=67E8F9&fontAlignY=50" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071B2D,30:123D59,65:30205F,100:080B1A&height=150&section=footer&text=Always%20Learning&fontSize=32&fontColor=E9D5FF&fontAlignY=65&fontFamily=Montserrat"/>
 
-**Growing through knowledge, one day at a time.** 💜
+<i>Growing through knowledge, one day at a time. ✨</i>
 
 </div>
